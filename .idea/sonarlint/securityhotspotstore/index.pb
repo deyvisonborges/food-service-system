@@ -17,3 +17,5 @@ V
 &order-service/order-dataaccess/pom.xml,9/6/96841bae7eb60ba0a53c40d05329483864d6c2f8
 9
 	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+d
+4order-service/order-domain/order-domain-core/pom.xml,e/2/e2c9ec2a77daaaa98761010294a2cfad7cd6acdd
